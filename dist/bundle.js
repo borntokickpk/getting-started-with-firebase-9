@@ -36,7 +36,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var firebase_app__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! firebase/app */ \"./node_modules/firebase/app/dist/index.esm.js\");\n\n\nconst firebaseConfig = {\n    apiKey: \"AIzaSyDkP9ksYPulu7jCp8nDqa4jsRfiZ7EitnE\",\n    authDomain: \"getting-started-with-fir-30780.firebaseapp.com\",\n    projectId: \"getting-started-with-fir-30780\",\n    storageBucket: \"getting-started-with-fir-30780.appspot.com\",\n    messagingSenderId: \"353703001954\",\n    appId: \"1:353703001954:web:3811c83d266a3dac2eb63b\",\n};\n\nfirebase_app__WEBPACK_IMPORTED_MODULE_0__[\"default\"].initializeApp(firebaseConfig);\n\n\n//# sourceURL=webpack://getting-started-with-firebase-9/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var firebase_app__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! firebase/app */ \"./node_modules/firebase/app/dist/index.esm.js\");\n\n\nconst firebaseConfig = {\n    apiKey: \"AIzaSyDkP9ksYPulu7jCp8nDqa4jsRfiZ7EitnE\",\n    authDomain: \"getting-started-with-fir-30780.firebaseapp.com\",\n    projectId: \"getting-started-with-fir-30780\",\n    storageBucket: \"getting-started-with-fir-30780.appspot.com\",\n    messagingSenderId: \"353703001954\",\n    appId: \"1:353703001954:web:3811c83d266a3dac2eb63b\",\n};\n\n(0,firebase_app__WEBPACK_IMPORTED_MODULE_0__.initializeApp)(firebaseConfig);\n\n\n//# sourceURL=webpack://getting-started-with-firebase-9/./src/index.js?");
 
 /***/ }),
 
